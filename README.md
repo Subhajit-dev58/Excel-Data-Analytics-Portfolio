@@ -44,7 +44,17 @@ An interactive Microsoft Excel dashboard developed to analyze annual retail sale
 - Adult customers represented the largest customer segment.
 
 ---
+---
 
+## 🔗 Project Access
+
+**GitHub Repository:**  
+https://github.com/Subhajit-dev58/Excel-Data-Analytics-Portfolio
+
+**Project Workbook:**  
+Download **Retail_Annual_Performance_Dashboard.xlsx** from this repository to explore the interactive dashboard and underlying analysis.
+
+---
 ## Tools
 
 - Microsoft Excel

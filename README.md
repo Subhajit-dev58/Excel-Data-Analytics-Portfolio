@@ -52,8 +52,7 @@ An interactive Microsoft Excel dashboard developed to analyze annual retail sale
 [Retail_Annual_Performance_Dashboard.xlsx](./Retail_Annual_Performance_Dashboard.xlsx)
 
 **GitHub Repository:**  
-https://github.com/Subhajit-dev58/Excel-Data-Analytics-Portfolio
-
+https://github.com/Subhajit-dev58/Retail-Annual-Performance-Dashboard
 
 
 ---
